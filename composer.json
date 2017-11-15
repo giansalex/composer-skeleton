@@ -3,10 +3,13 @@
     "description": "Composer skeleton",
     "keywords": ["composer", "php"],
     "license": "MIT",
+    "optimize-autoloader": true,
+    "classmap-authoritative": true,
     "authors": [
         {
             "name": "Username",
-            "email": "dev@domain.com"
+            "email": "dev@domain.com",
+	    "role" : "Developers"
         }
     ],
     "homepage": "https://github.com/giansalex/composer-skeleton",
