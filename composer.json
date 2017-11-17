@@ -8,8 +8,7 @@
     "authors": [
         {
             "name": "Username",
-            "email": "dev@domain.com",
-	    "role" : "Developers"
+            "email": "dev@domain.com"
         }
     ],
     "homepage": "https://github.com/giansalex/composer-skeleton",
@@ -22,7 +21,7 @@
     },
 	"autoload": {
         "psr-4": {
-            "App\\": "src/App"
+            "App\\": "src/App/"
         }
     },
     "autoload-dev": {
