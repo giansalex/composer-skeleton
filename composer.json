@@ -13,7 +13,7 @@
         }
     ],
     "homepage": "https://github.com/giansalex/composer-skeleton",
-    "type": "project",
+    "type": "library",
     "require": {
         "php": ">=5.5.9"
     },
